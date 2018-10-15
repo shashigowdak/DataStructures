@@ -1,0 +1,4 @@
+﻿  MainApplication.cpp
+c:\sourcecode\git\datastructures\mainapplication\mainapplication\mainapplication.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\sourcecode\git\datastructures\mainapplication\mainapplication\mainapplication.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  MainApplication.vcxproj -> C:\SourceCode\Git\DataStructures\MainApplication\Debug\MainApplication.exe
